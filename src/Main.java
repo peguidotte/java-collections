@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -6,11 +7,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 
-        List<String> listaArrayList = new ArrayList<>();
-        listaArrayList.add("Evando");
-        listaArrayList.add("Heloysa");
-        listaArrayList.add("Juan");
-        listaArrayList.add("Pedro");
+
 
     }
 }
